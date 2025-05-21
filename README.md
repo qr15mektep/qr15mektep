@@ -86,3 +86,7 @@
     </footer>
 </body>
 </html>
+<div class="slider">
+  <img src="images/15-mektep.jpg" class="slide" style="display: block;">
+  <img src="images/15-mektep2.jpg" class="slide">
+</div>
