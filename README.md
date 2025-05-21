@@ -77,7 +77,7 @@
     <section id="aloqa">
         <h2>Aloqa</h2>
         <p><strong>Manzil:</strong> Qoraqalpog‘iston Respublikasi, Qorauzak tumani</p>
-        <p><strong>Telefon:</strong> +998 XX XXX XX XX</p>
+        <p><strong>Telefon:</strong> +998 88 657 75 55</p>
         <p><strong>Email:</strong> info@15maktab.uz</p>
     </section>
 
